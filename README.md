@@ -11,3 +11,6 @@ A proposed website created for a local Philippine NGO that is called I Am A Lega
 # Limitations
 - Media queries not fully implemented for other devices.
 - Decorative only no active buttons and functions.
+
+# Access the website through this link
+[I Am A Legacy Website](https://i-am-a-legacy-sample-website.riki11.repl.co/index.html )
