@@ -1,5 +1,5 @@
 # I Am A Legacy Website Proposition
-A proposed website created for a local Philippine NGO that is called I Am A Legacy. This was made as a course requirement for a purposive communcation class.
+A proposed website created for a local Philippine NGO that is called I Am A Legacy. This was made as a requirement for a purposive communcation class.
 
 # Built using
 - Javascript
