@@ -1,6 +1,10 @@
 # I Am A Legacy Website Proposition
 A proposed website created for a local Philippine NGO that is called I Am A Legacy. This was made as a requirement for a purposive communcation class.
 
+# Group members
+- riki-11
+- jmd
+
 # Built using
 - Javascript
 - Html
